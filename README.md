@@ -1,8 +1,13 @@
 # Calcul Quantique Adiabatique
 Une courte introduction au concept de "Calcul Quantique Adiabatique"
 
-# Auteur
-Côme Périn
+# Contenu
+* Rapport écrit
+* Présentation orale
+
+# Auteurs
+* Côme Périn
+* Sam Gubernator
 
 # PDF
-Une version PDF déjà compilée est disponible dans les releases
+les versions PDF déjà compilés sont disponibles dans les releases
